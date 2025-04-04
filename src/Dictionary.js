@@ -3,7 +3,7 @@ import axios from "axios";
 import Results from "./Results";
 
 export default function Dictionary(props) {
-  let [keyWord, setKeyword] = useState("");
+  let [keyWord, setKeyword] = useState("sun");
   let [results, setResults] = useState(null);
 
   function handleResponse(response) {
