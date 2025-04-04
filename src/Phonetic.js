@@ -1,11 +1,11 @@
 import React from "react";
 
 export default function Phonetic(props) {
-  if (props.phonetics) {
+  if (props.phonetic) {
     return (
       <div className="photnetic">
-        <strong>Photnetic:</strong>
-        {props.phonetics}
+        <strong>Phonetic:</strong>
+        {props.phonetic}
       </div>
     );
   } else {
