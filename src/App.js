@@ -10,7 +10,7 @@ function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
-          <Dictionary/>
+          <Dictionary dafaultKey="sun"/>
         </main>
         <footer className="App-footer">
           <small>Coded by SheCodes</small>
