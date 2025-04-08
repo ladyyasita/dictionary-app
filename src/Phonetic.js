@@ -4,7 +4,7 @@ import "./Phonetic.css";
 export default function Phonetic(props) {
   if (props.phonetic) {
     return (
-      <div className="photnetic">
+      <div className="Phonetic">
         <strong>Phonetic:</strong>
        <div className="text">{props.phonetic}</div> 
       </div>

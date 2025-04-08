@@ -4,10 +4,10 @@
   margin-bottom: 16px;
 }
 .Dictionary section {
-  background: white;
+  background: rgb(185, 211, 236);
   padding: 30px;
   border-radius: 6px;
-  box-shadow: 5px 5px 5px rgba(0, 0, 0.7);
+  box-shadow: 5px 5px 5px rgb(34, 34, 121);
   margin: 20px 0;
 }
 .Dictionary .hint {
