@@ -13,7 +13,6 @@ function App() {
           <Dictionary dafaultKey="sun"/>
         </main>
         <footer className="App-footer">
-             <footer>
           This project was coded by{" "}
           <a href="https://github.com/aigib" target="_blank" rel="noreferrer">
             Iaroslava Pozniak
