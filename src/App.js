@@ -13,7 +13,27 @@ function App() {
           <Dictionary dafaultKey="sun"/>
         </main>
         <footer className="App-footer">
-          <small>Coded by SheCodes</small>
+             <footer>
+          This project was coded by{" "}
+          <a href="https://github.com/aigib" target="_blank" rel="noreferrer">
+            Iaroslava Pozniak
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://github.com/ladyyasita/dictionary-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://iaroslavas-dictionary-app.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>
