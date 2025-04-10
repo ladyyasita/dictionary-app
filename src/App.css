@@ -1,3 +1,13 @@
+body {
+background:rgb(195, 192, 249);
+}
+a {
+  color: #2e1c5e;
+}
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App-header {
   margin: 30px 0;
 }
